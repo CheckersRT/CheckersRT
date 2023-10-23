@@ -1,5 +1,6 @@
 # Hi! 😎
-I'm Tom. I'm learning to code. This is how I learn: ![finish fline](https://github.com/CheckersRT/CheckersRT/blob/main/giphy.gif)
+I'm Tom. I'm learning to code. This is how I learn: 
+![finish fline](https://github.com/CheckersRT/CheckersRT/blob/main/giphy.gif)
 
 ## Interests
 - I love triathlon
