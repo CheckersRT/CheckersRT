@@ -1,5 +1,5 @@
 # Hi! 😎
-I'm Tom. I'm learning to code. This is how I learn: ![finish fline]
+I'm Tom. I'm learning to code. This is how I learn: ![finish fline](./gighy.gif)
 
 ## Interests
 - I love triathlon
